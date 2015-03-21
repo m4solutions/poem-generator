@@ -1,5 +1,5 @@
-# portafolio
+# poem-generator
 
-Examples of my work as developer for clients other contractors to evaluate my knowledge.
+Example of my work as developer, for clients other contractors to evaluate my knowledge in algorithm building and code style
 
-Mostly Java Back End Related.
+Mostly Java Core Related.
