@@ -1,5 +1,5 @@
 # poem-generator
 
-Example of my work as developer, for clients other contractors to evaluate my knowledge in algorithm building and code style
+Example of my work as developer, built for clients and other contractors, so they can evaluate my knowledge in algorithm building and code style
 
-Mostly Java Core Related.
+This one is mostly Java Core Related.
