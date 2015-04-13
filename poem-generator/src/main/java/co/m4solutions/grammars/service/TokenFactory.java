@@ -7,7 +7,7 @@ import co.m4solutions.grammars.model.TerminalToken;
 import co.m4solutions.grammars.model.Token;
 
 public class TokenFactory {
-
+	//TODO: refactor this method in it's coresponding sub-methods or classes.
 	public static Token buildToken(String tk) {
 		tk = tk.trim();
 		if(tk.contains("<")){
